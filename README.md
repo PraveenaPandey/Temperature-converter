@@ -1,2 +1,3 @@
 # Temperature-converter
-This is my third task of level 1 of web development intern 
+Built a Temperature Converter website using HTML, CSS, and JavaScript to convert values between Celsius, Fahrenheit, and Kelvin with a responsive and user-friendly interface.
+
